@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    width: 600px;
+    background-color: rgb(62, 201, 201);
+    padding: 20px;
+    margin: 15px;
+    border: 2px solid black;
+    color: white;
+}

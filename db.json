@@ -1,0 +1,33 @@
+{
+  "posts": [],
+  "signup": [
+    {
+      "FirstName": "abhi",
+      "LastName": "gawas",
+      "Email": "abbb11@gmail.com",
+      "Mobile": 23543255,
+      "Password": "11111111",
+      "id": 1
+    },
+    {
+      "FirstName": "babu",
+      "LastName": "naik",
+      "Email": "babu@gmail.com",
+      "Mobile": 25435,
+      "Password": "babu12",
+      "id": 2
+    },
+    {
+      "FirstName": "raj",
+      "LastName": "divker",
+      "Email": "raj@gmail.com",
+      "Mobile": 235454,
+      "Password": "rajdivker",
+      "id": 3
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
